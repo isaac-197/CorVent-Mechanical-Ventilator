@@ -1,5 +1,5 @@
 # CorVent-Mechanical-Ventilator 
-Ventilator functional video [![CorVent Demo]({https://web.facebook.com/CORVENTPakistan/photos/a.104654997997433/108073397655593/?type=3&eid=ARBGvj0Z25teYrI2oNz-ngic1prMOoPFpLwgbrKakdZSo5Km6uOSoMsLghILNAjzjpz6Pq2RKaHdo4U-&__xts__%5B0%5D=68.ARAlACQc0Y1QsBqp1HSKX01GcGIiEJ8E1TI7kS_oCdFA61n_YZHnRqjcb2IYqJS-6dFj-GdIFOL3Hwzmv1D2cuQNxP1Bw9h0t_JVQjEbZZqSgZDcyBvI1GvLfveqmgE7ElXN3Maqac4IaqQtcY21t9Mqg_TAItWA8JfXcd-CyGRuS6eIVRg74M-cRPFiJcPYxhqtobeCPQeV3pmKCkcDx8Plsy7hyqiAwaXcVjiUQVO1GEEMy6pNb_BXVWUuTeTdGW4ndtI-O_heDfvHBiJfDTqwoWB2qdo4DAUdKg6NUz0Q1T8a1q4utvve5kNbIt0YUlMQqgKMckU5hcNTZFXr390&__tn__=EEHH-R})]({https://web.facebook.com/CORVENTPakistan/videos/959245194487509/?t=0} "Facebook")
+Ventilator functional video https://web.facebook.com/CORVENTPakistan/videos/959245194487509/?t=0
 ## An indigenously develop mechanical ventilator for Covid-19
 
 <p align="center">
@@ -44,5 +44,9 @@ Another achievement along with the design of ventilator is the development of a 
   <img src="https://scontent.fisb3-2.fna.fbcdn.net/v/t1.0-9/s960x960/116938332_125170995945833_3239288629707516891_o.jpg?_nc_cat=110&ccb=2&_nc_sid=110474&_nc_ohc=4evKrzxUjJMAX--0UpG&_nc_oc=AQmeZmMK6KqIbOQw6rEIPQuYFnIR-IyQOWID996zkuH4mfU-Kgl0YkK0adS2wi1HeCE&_nc_ht=scontent.fisb3-2.fna&tp=7&oh=5caad41efd45d7b76cdce7426a3ab992&oe=5FE1C583" width="600" title="CorVent Lab">
 </p>
 
-
+## Join Us on 
+[<img align="left" alt="CorVent Pakistan| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][corvent]
+[<img align="left" alt="CorVent Pakistan| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [corvent]: https://www.linkedin.com/company/corvent-pakistan/
+[facebook]: https://web.facebook.com/CORVENTPakistan/?_rdc=1&_rdr&redirect=false
+
