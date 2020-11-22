@@ -1,6 +1,6 @@
 # CorVent-Mechanical-Ventilator 
 
-[<img align="right" alt="CorVent" width="250px" src="https://scontent.fisb3-2.fna.fbcdn.net/v/t1.0-9/p960x960/109320894_104649427997990_5476306489474748214_o.jpg?_nc_cat=109&ccb=2&_nc_sid=85a577&_nc_ohc=Fm3ijBcemNcAX9KflgH&_nc_ht=scontent.fisb3-2.fna&tp=6&oh=791595f105dc2e1f96bac2e3c022323b&oe=5FE0CE08" />]
+[<img align="center" alt="CorVent" width="250px" src="https://scontent.fisb3-2.fna.fbcdn.net/v/t1.0-9/p960x960/109320894_104649427997990_5476306489474748214_o.jpg?_nc_cat=109&ccb=2&_nc_sid=85a577&_nc_ohc=Fm3ijBcemNcAX9KflgH&_nc_ht=scontent.fisb3-2.fna&tp=6&oh=791595f105dc2e1f96bac2e3c022323b&oe=5FE0CE08" />][corvent]
 
 
 ## An indigenously develop mechanical ventilator for Covid-19
