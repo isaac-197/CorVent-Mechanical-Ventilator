@@ -1,6 +1,6 @@
 # CorVent-Mechanical-Ventilator 
 
-[<img align="left" alt="CorVent" width="26px" src="https://scontent.fisb3-2.fna.fbcdn.net/v/t1.0-9/p960x960/109320894_104649427997990_5476306489474748214_o.jpg?_nc_cat=109&ccb=2&_nc_sid=85a577&_nc_ohc=Fm3ijBcemNcAX9KflgH&_nc_ht=scontent.fisb3-2.fna&tp=6&oh=791595f105dc2e1f96bac2e3c022323b&oe=5FE0CE08" />][https://www.linkedin.com/company/corvent-pakistan/]
+[<img align="right" alt="CorVent" width="26px" src="https://scontent.fisb3-2.fna.fbcdn.net/v/t1.0-9/p960x960/109320894_104649427997990_5476306489474748214_o.jpg?_nc_cat=109&ccb=2&_nc_sid=85a577&_nc_ohc=Fm3ijBcemNcAX9KflgH&_nc_ht=scontent.fisb3-2.fna&tp=6&oh=791595f105dc2e1f96bac2e3c022323b&oe=5FE0CE08" />][corvent]
 
 
 ## An indigenously develop mechanical ventilator for Covid-19
@@ -29,3 +29,5 @@ The work was started on other modes of ventilation and other parameters like saf
 
 
 Another achievement along with the design of ventilator is the development of a dedicated CorVent lab at Pakistan Ordnance Factories where all the procedures for mass production have been completed by the Corvent team and procurement of necessary components of 50 ventilators has been completed. Soon with the approval of industrial grade design, the mass production will be started which will be a major stepping stone in making Pakistan self sufficient in medical equipment.
+
+[corvent]: https://www.linkedin.com/company/corvent-pakistan/
