@@ -1,12 +1,11 @@
 # CorVent-Mechanical-Ventilator 
 
+## An indigenously develop mechanical ventilator for Covid-19
+
 <p align="center">
   <img src="https://scontent.fisb3-2.fna.fbcdn.net/v/t1.0-9/p960x960/109320894_104649427997990_5476306489474748214_o.jpg?_nc_cat=109&ccb=2&_nc_sid=85a577&_nc_ohc=Fm3ijBcemNcAX9KflgH&_nc_ht=scontent.fisb3-2.fna&tp=6&oh=791595f105dc2e1f96bac2e3c022323b&oe=5FE0CE08" width="300" title="CorVent ">
 </p>
 
-
-
-## An indigenously develop mechanical ventilator for Covid-19
 
 <p align="center">
   <img src="https://scontent.fisb3-2.fna.fbcdn.net/v/t1.0-9/s960x960/109922449_104949744634625_5355343214183262976_o.jpg?_nc_cat=110&ccb=2&_nc_sid=dd9801&_nc_ohc=pOvdvBSDSYIAX8pN-pM&_nc_ht=scontent.fisb3-2.fna&tp=7&oh=a2e414566b10c0886939bd442ef61312&oe=5FE0CD1E" width="800" title="CorVent ">
@@ -21,6 +20,9 @@ It was the day of 21 March, 2020. The Corona pandemic had already found its way 
 
 In these alarming circumstances of global pandemic, a challenging initiative was taken by some students of Pakistan institute of Engineering And Applied Sciences (PIEAS) to work for the design & manufacturing of local ventilators in Pakistan and contribute their efforts in saving the lives of people. A diverse team of mechanical, electrical and software engineers emerged as CorVent Pakistan and started working on the design of indigenous ventilator. The doctors with ICU experience were incorporated in the team to take all the necessary guidance and information regarding the patients’ needs and safeties. At that time, there were no official guidelines in Pakistan for ventilator development. To ensure safety and quality, team CorVent decided to develope an indigenous design following UK government's guidelines for rapidly manufactured ventilators. The design of a complex control and safety critical device of ventilator was a really challenging task. But the challenge was not bigger than passion of team CORVENT. The team worked day and night with the resolve to serve humanity in the times of need. In a time span of 15 days, the team developed the design of an indigenous piston cylinder ventilator.
 
+<p align="center">
+  <img src="https://web.facebook.com/CORVENTPakistan/photos/a.104654997997433/110317497431183/?type=3&eid=ARDLux8YKBXlp7rviR3Na2BLicViWc4DlTi5GNsd32CA58oilyQf5oHsWFP-cFusj3sWT64sFNj-1Lv-&__xts__%5B0%5D=68.ARBxahZ_mxSXVT0iVNG7pvwjFi24YWGK5jq_CI41Cj2Ie-QOYwhiDXC6I3NpOWt2bYJG67G9HToSj58VIrrn6H1vP7hlFzE7sCPycg_VwyUbsTQtN3R9D4HQimK_WfLX0HWSJVTgwGHT2wQ4jNv8uRxsnVT3UIu-Yx56LEFrYy-0KCaKuBwHul4JU23EliAyRt57YKRRVAA9C_O7X-5uZI3X-xasPdEKNqPseOKftOw3SbzljTm8kY-53DJjsS2zLmS8-6LYMMQEAXDP6FYoEm0H6uoxQodsOl7y6dprCxXOVSkWecIbCOGrqx6pVk5PKb3vRZrx0Ztutw7rupTNn3E&__tn__=EEHH-R" width="600" title="Team CorVent">
+</p>
 
 After design completion, the team needed manufacturing facility. For this, social media platforms were used to reach people with manufacturing facilities and working space. In just a single post, the team were approached by 6 different industries of Pakistan including Pakistan Ordnance Factories. Team CorVent joined Pakistan Ordinance Factories, Wah Cantt which provided the team with all the support for the completion of prototype. 
 
