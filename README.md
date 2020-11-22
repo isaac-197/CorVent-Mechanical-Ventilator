@@ -1,14 +1,12 @@
 # CorVent-Mechanical-Ventilator
+<p align="right">
+  <img src="https://scontent.fisb3-2.fna.fbcdn.net/v/t1.0-9/p960x960/109320894_104649427997990_5476306489474748214_o.jpg?_nc_cat=109&ccb=2&_nc_sid=85a577&_nc_ohc=Fm3ijBcemNcAX9KflgH&_nc_ht=scontent.fisb3-2.fna&tp=6&oh=791595f105dc2e1f96bac2e3c022323b&oe=5FE0CE08" width="200" title="CorVent Logo">
+</p>
 
 ## An indigenously develop mechanical ventilator for Covid-19
 
 <p align="center">
-  <img src="https://scontent.fisb3-2.fna.fbcdn.net/v/t1.0-9/p960x960/109320894_104649427997990_5476306489474748214_o.jpg?_nc_cat=109&ccb=2&_nc_sid=85a577&_nc_ohc=Fm3ijBcemNcAX9KflgH&_nc_ht=scontent.fisb3-2.fna&tp=6&oh=791595f105dc2e1f96bac2e3c022323b&oe=5FE0CE08" width="400" title="CorVent Logo">
-</p>
-
-
-<p align="center">
-  <img src="https://scontent.fisb3-2.fna.fbcdn.net/v/t1.0-9/s960x960/109922449_104949744634625_5355343214183262976_o.jpg?_nc_cat=110&ccb=2&_nc_sid=dd9801&_nc_ohc=pOvdvBSDSYIAX8pN-pM&_nc_ht=scontent.fisb3-2.fna&tp=7&oh=a2e414566b10c0886939bd442ef61312&oe=5FE0CD1E" width="400" title="CorVent ">
+  <img src="https://scontent.fisb3-2.fna.fbcdn.net/v/t1.0-9/s960x960/109922449_104949744634625_5355343214183262976_o.jpg?_nc_cat=110&ccb=2&_nc_sid=dd9801&_nc_ohc=pOvdvBSDSYIAX8pN-pM&_nc_ht=scontent.fisb3-2.fna&tp=7&oh=a2e414566b10c0886939bd442ef61312&oe=5FE0CD1E" width="800" title="CorVent ">
 </p>
 
 It was the day of 21 March, 2020. The Corona pandemic had already found its way to Pakistan. The European countries especially Italy, which have one of the world's best health infrastructure were severely affected & their health system had nearly collapsed. In these critical times, there was shortage of ventilator everywhere around the world. There was great fear and anxiety among the general Pakistani public and people were hopeless from the Pakistani health infrastructure. An estimated 3,000 ventilators were present in Pakistan as of March, 2020, for a population of more than 200 million people.
