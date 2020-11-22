@@ -31,6 +31,10 @@ The work was started on other modes of ventilation and other parameters like saf
 Another achievement along with the design of ventilator is the development of a dedicated CorVent lab at Pakistan Ordnance Factories where all the procedures for mass production have been completed by the Corvent team and procurement of necessary components of 50 ventilators has been completed. Soon with the approval of industrial grade design, the mass production will be started which will be a major stepping stone in making Pakistan self sufficient in medical equipment.
 
 <p align="center">
+  <img src="https://scontent.fisb3-2.fna.fbcdn.net/v/t1.0-9/s960x960/117342712_125170442612555_7768853778900042013_o.jpg?_nc_cat=101&ccb=2&_nc_sid=110474&_nc_ohc=1ieEQWB1kKAAX_24ZF8&_nc_ht=scontent.fisb3-2.fna&tp=7&oh=40aaff03d0c87ef19d0fbc7702ac47ac&oe=5FDFB492" width="600" title="CorVent Team Members">
+</p>
+
+<p align="center">
   <img src="https://scontent.fisb3-1.fna.fbcdn.net/v/t1.0-9/s960x960/116570718_125170655945867_3090879511233998725_o.jpg?_nc_cat=106&ccb=2&_nc_sid=110474&_nc_ohc=dfUKn5WrT58AX9dOLKx&_nc_ht=scontent.fisb3-1.fna&tp=7&oh=66518fce55f4a8b5ec5302aa8c7b26a8&oe=5FDF6704" width="600" title="Ventilator Lab">
 </p>
 
@@ -38,8 +42,5 @@ Another achievement along with the design of ventilator is the development of a 
   <img src="https://scontent.fisb3-2.fna.fbcdn.net/v/t1.0-9/s960x960/116938332_125170995945833_3239288629707516891_o.jpg?_nc_cat=110&ccb=2&_nc_sid=110474&_nc_ohc=4evKrzxUjJMAX--0UpG&_nc_oc=AQmeZmMK6KqIbOQw6rEIPQuYFnIR-IyQOWID996zkuH4mfU-Kgl0YkK0adS2wi1HeCE&_nc_ht=scontent.fisb3-2.fna&tp=7&oh=5caad41efd45d7b76cdce7426a3ab992&oe=5FE1C583" width="600" title="CorVent Lab">
 </p>
 
-<p align="center">
-  <img src="https://scontent.fisb3-2.fna.fbcdn.net/v/t1.0-9/s960x960/117342712_125170442612555_7768853778900042013_o.jpg?_nc_cat=101&ccb=2&_nc_sid=110474&_nc_ohc=1ieEQWB1kKAAX_24ZF8&_nc_ht=scontent.fisb3-2.fna&tp=7&oh=40aaff03d0c87ef19d0fbc7702ac47ac&oe=5FDFB492" width="600" title="CorVent Team Members">
-</p>
 
 [corvent]: https://www.linkedin.com/company/corvent-pakistan/
