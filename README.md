@@ -7,6 +7,10 @@ It was the day of 21 March, 2020. The Corona pandemic had already found its way 
 
 ![CorVent Pakistan width="500px"](https://media-exp1.licdn.com/dms/image/C4D22AQEWqcxUQmJ3CQ/feedshare-shrink_1280-alternative/0?e=1608768000&v=beta&t=xJHasaNZtV2uUoR8uWLW0a_P51U1gZBsQ0Xh1gvuf2k)
 
+<p align="center">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D22AQEWqcxUQmJ3CQ/feedshare-shrink_1280-alternative/0?e=1608768000&v=beta&t=xJHasaNZtV2uUoR8uWLW0a_P51U1gZBsQ0Xh1gvuf2k" width="350" title="CorVent Project Timeline">
+</p>
+
 
 In these alarming circumstances of global pandemic, a challenging initiative was taken by some students of Pakistan institute of Engineering And Applied Sciences (PIEAS) to work for the design & manufacturing of local ventilators in Pakistan and contribute their efforts in saving the lives of people. A diverse team of mechanical, electrical and software engineers emerged as CorVent Pakistan and started working on the design of indigenous ventilator. The doctors with ICU experience were incorporated in the team to take all the necessary guidance and information regarding the patients’ needs and safeties. At that time, there were no official guidelines in Pakistan for ventilator development. To ensure safety and quality, team CorVent decided to develope an indigenous design following UK government's guidelines for rapidly manufactured ventilators. The design of a complex control and safety critical device of ventilator was a really challenging task. But the challenge was not bigger than passion of team CORVENT. The team worked day and night with the resolve to serve humanity in the times of need. In a time span of 15 days, the team developed the design of an indigenous piston cylinder ventilator.
 
