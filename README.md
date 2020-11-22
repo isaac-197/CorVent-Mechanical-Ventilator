@@ -3,7 +3,7 @@
 ## An indigenously develop mechanical ventilator for Covid-19
 
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQH9atbLkQ13Qg/company-logo_200_200/0?e=1614211200&v=beta&t=f0A7in3N0yOR8sU-kKiVjFgZP0YfrJU43E4P52F7l-g" width="600" title="CorVent Logo">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQH9atbLkQ13Qg/company-logo_200_200/0?e=1614211200&v=beta&t=f0A7in3N0yOR8sU-kKiVjFgZP0YfrJU43E4P52F7l-g" width="350" title="CorVent Logo">
 </p>
 
 
